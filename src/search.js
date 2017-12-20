@@ -15,3 +15,4 @@ export const searchTrack = (query) =>
 
 export const searchPlaylist = (query) => 
     search(query, 'playlist');
+    
